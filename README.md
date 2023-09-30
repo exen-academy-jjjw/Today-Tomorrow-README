@@ -2,7 +2,7 @@
 
 ---
 
-<img src="C:\Users\wldk9\IdeaProjects\project\Today-Tomorrow-README\.idea\img\mainIMG.png" width="700" height="400" />
+<img src="img/mainIMG.png" width="700" height="400" />
 
 <br />
 
