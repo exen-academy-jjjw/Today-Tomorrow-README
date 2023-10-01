@@ -36,9 +36,9 @@
 
 #### 2. 버킷 리스트 작성, 수정, 삭제
 
-<p>
-<img src="gif/create_post.gif" width="300" height="400" align="left"/>
-<img src="gif/update_delete_post.gif" width="300" height="400" align="right"/>
+<p align="left">
+<img src="gif/create_post.gif" width="300" height="400" />
+<img src="gif/update_delete_post.gif" width="300" height="400" />
 </p>
 <br>
 버킷을 작성할 수 있습니다.<br>
