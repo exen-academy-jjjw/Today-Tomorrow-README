@@ -36,8 +36,10 @@
 
 #### 2. 버킷 리스트 작성, 수정, 삭제
 
-<img src="gif/create_post.gif" width="300" height="400" />
-<img src="gif/update_delete_post.gif" width="300" height="400" />
+<p>
+<img src="gif/create_post.gif" width="300" height="400" align="left"/>
+<img src="gif/update_delete_post.gif" width="300" height="400" align="right"/>
+</p>
 <br>
 버킷을 작성할 수 있습니다.<br>
 버킷 작성 때에는 카테고리를 결정할 수 있으며, 추후 모든 게시글 목록 혹은 해당 카테고리에서 작성된 버킷을 확인할 수 있습니다.<br>
