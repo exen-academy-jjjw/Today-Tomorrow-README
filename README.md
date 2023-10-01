@@ -12,6 +12,10 @@
 ---
 
 ### 팀원 소개
+|김정수|손지아|원정문|이윤재|
+|:------:|:---:|:---:|:---:|
+|@kingzim468|@jia-son|@Expedition-To-The-Moon|@gradesdc|
+||https://www.introduce-jia.site/|https://expedition-to-the-moon.tistory.com/||
 
 ---
 
