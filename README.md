@@ -51,8 +51,10 @@
 
 #### 3. 버킷에 대한 리뷰 작성
 
+<p align="left">
 <img src="gif/create_review.gif" width="300" height="400" />
 <img src="gif/completion_btn.gif" width="300" height="400" />
+</p>
 <br>
 작성한 버킷을 실행했다면 그에 대한 리뷰를 작성할 수 있습니다.<br>
 사진은 최대 3장까지 업로드할 수 있으며, 버킷과 마찬가지로 수정과 삭제가 가능합니다.<br>
@@ -88,8 +90,10 @@
 
 #### 6. 마이페이지, 회원 탈퇴
 
+<p align="left">
 <img src="gif/mypage.gif" width="300" height="400" />
 <img src="gif/delete_member.gif" width="300" height="400" />
+</p>
 <br>
 마이페이지에서 내가 작성한 게시글의 총 갯수와 그 중에서 완료 버튼이 체크된 게시글의 수를 확인할 수 있으며, 닉네임과 비밀번호 변경이 가능합니다.<br>
 닉네임을 변경은 다른 사용자의 닉네임과 중복되는지 확인 후 진행됩니다.<br>
