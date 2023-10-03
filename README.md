@@ -12,11 +12,11 @@
 ---
 
 ### 팀원 소개
-|     김정수     |               손지아               |원정문|        이윤재        |
-|:-----------:|:-------------------------------:|:---:|:-----------------:|
-| @kingzim468 |            @jia-son             |@Expedition-To-The-Moon|     @gradesdc     |
-| 메인 게시글 CRUD | 회원가임,<br>로그인 및 로그아웃<br>+공유 게시판  |리뷰 게시글 CRUD<br>+댓글,대댓글| 마이페이지,<br>회원정보 수정 |
-|             | https://www.introduce-jia.site/ |https://expedition-to-the-moon.tistory.com/|                   |
+|     김정수     |               손지아               |원정문|       이윤재       |
+|:-----------:|:-------------------------------:|:---:|:---------------:|
+| @kingzim468 |            @jia-son             |@Expedition-To-The-Moon|    @gradesdc    |
+| 메인 게시글 CRUD | 회원가임,<br>로그인 및 로그아웃<br>+공유 게시판  |리뷰 게시글 CRUD<br>+댓글,대댓글|마이페이지,<br>회원정보 수정|
+|             | https://www.introduce-jia.site/ |https://expedition-to-the-moon.tistory.com/|                 |
 
 ---
 
