@@ -22,6 +22,13 @@
 
 ### 프로젝트 상세 소개
 
+#### 사용된 언어 : Java, Javascript, HTML/CSS
+#### 프레임워크 : Spring Boot
+#### 라이브러리 : React
+#### 아키텍처 : 마이크로 서비스 아키텍처
+#### DB : MySQL
+#### ETC : AXIOS, JSON, AWS S3
+
 <br>
 
 #### 1. 회원 가입 및 로그인
